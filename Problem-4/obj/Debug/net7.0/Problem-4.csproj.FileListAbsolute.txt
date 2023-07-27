@@ -1,0 +1,15 @@
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\bin\Debug\net7.0\Problem-4.exe
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\bin\Debug\net7.0\Problem-4.deps.json
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\bin\Debug\net7.0\Problem-4.runtimeconfig.json
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\bin\Debug\net7.0\Problem-4.dll
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\bin\Debug\net7.0\Problem-4.pdb
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\obj\Debug\net7.0\Problem-4.csproj.AssemblyReference.cache
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\obj\Debug\net7.0\Problem-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\obj\Debug\net7.0\Problem-4.AssemblyInfoInputs.cache
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\obj\Debug\net7.0\Problem-4.AssemblyInfo.cs
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\obj\Debug\net7.0\Problem-4.csproj.CoreCompileInputs.cache
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\obj\Debug\net7.0\Problem-4.dll
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\obj\Debug\net7.0\refint\Problem-4.dll
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\obj\Debug\net7.0\Problem-4.pdb
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\obj\Debug\net7.0\Problem-4.genruntimeconfig.cache
+C:\Users\ardil\Documents\ProjectEuler\Problems\Problem-4\obj\Debug\net7.0\ref\Problem-4.dll
